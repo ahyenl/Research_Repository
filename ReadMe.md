@@ -2,7 +2,7 @@
 # Research Repository
 
 
- Below are the list of various python code.
+ Below are the list of various python code and research code.
 
 
 [ex1-1-console-menu.py](ex1-1-console-menu.py)
@@ -101,3 +101,9 @@ This code creates a fun and random nickname generator by combining elements from
 [sketch_drawing.py](sketch_drawing.py)
 
 - This Python code uses the OpenCV library (cv2) to transform a color image into a sketch-like representation. It performs several image processing operations to achieve this effect. 
+
+## snake_game
+
+[snake.py](snake.py)
+
+- This code is a Python program that implements the classic game of Snake using the Turtle graphics library.
